@@ -3,3 +3,8 @@
 2. Roland Savitar Herdiansyah 23091397145
 3. Nur Fatehah 23091397160
 """
+
+def turn_right():
+    for i in range(3):
+        turn_left()
+
